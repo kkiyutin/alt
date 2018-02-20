@@ -3,8 +3,8 @@
 // Definitions by: Michael Shearer <https://github.com/Shearerbeard>
 // Definitions: https://github.com/borisyankov/DefinitelyTyped
 
-///<reference path="../react/react.d.ts"/>
-///<reference path="../es6-promise/es6-promise.d.ts" />
+///<reference path="../../../node_modules/@types/react/index.d.ts"/>
+///<reference path="../../../node_modules/es6-promise/es6-promise.d.ts" />
 
 declare module AltJS {
 
